@@ -6,7 +6,13 @@
             <title>Version 1.15.0</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 30 Dec 202023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="ios" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Version 1.15.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sun, 30 Dec 202023 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/th/story/id1573535301?l=th?itscg=10000&itsct=" sparkle:version="1.15.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
